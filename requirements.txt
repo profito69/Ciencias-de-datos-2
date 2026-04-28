@@ -7,3 +7,5 @@ ultralytics
 onnxruntime
 insightface
 deepface
+tf-keras
+tensorflow
